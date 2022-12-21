@@ -1,5 +1,6 @@
-# Aziz_Porfolio
-My data science portfolio
+# Aziz's Porfolio
+As a data scientist, I have experience in using a variety of tools and techniques to analyze and interpret data, including machine learning, statistical modeling, and data visualization. My strong foundation in mathematics, statistics, and computer science allows me to effectively extract insights from data and communicate them to diverse audiences. I am proficient in Python programming, and have applied these skills to projects such as predicting customer churn, analyzing sentiment in social media data, and optimizing supply chain operations. I am committed to continuing my learning and growth in the field of data science, and am excited to use my skills to make meaningful contributions to organizations through data-driven decision making.
+Here are some of these projects:
 
 # [Project 1: Data Science Project: Car classificator Project Overview](https://github.com/AzizRom17/Car_classification)
 * Clustered different car models from a car dealer catalog with over 200k rows into classes.
