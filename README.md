@@ -1,7 +1,7 @@
 # Aziz_Porfolio
 My data science portfolio
 
-# Project 1: Data Science Project: Car classificator Project Overview
+# [Project 1: Data Science Project: Car classificator Project Overview](https://github.com/AzizRom17/Car_classification)
 * Clustered different car models from a car dealer catalog with over 200k rows into classes.
 * Chose the optimal number of classes (clusters) with various techniques such as T-SNE and PCA for dimension reduction and visualization.
 * Developed a classification model that predicts the most suitable car class to a client based on the client's info (trained the model on a dataset of over 2 million rows).
