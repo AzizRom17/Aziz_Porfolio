@@ -12,3 +12,6 @@ My data science portfolio
 ## Code and Resources Used
 **Python Version**:
 **Packages**: pandas, numpy, sklearn, matplotlib, seaborn, xgboost
+
+![pca](https://github.com/AzizRom17/Aziz_Porfolio/blob/main/images/pca.png)
+![t-sne](https://github.com/AzizRom17/Aziz_Porfolio/blob/main/images/t-sne.png)
